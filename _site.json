@@ -1,0 +1,10 @@
+{
+  "title": "Classic in Orbit",
+  "url": "https://that.world/~classic",
+  "baseUrl": "/~classic/",
+  "author": "Wei Tang",
+  "email": "wei@that.world",
+  "sitemap": {
+    "enable": false
+  }
+}
